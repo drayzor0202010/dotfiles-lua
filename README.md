@@ -35,7 +35,7 @@ Automatize aliases, funções úteis e organize seu terminal de forma prática e
 
 
 
-⚡ Instalação
+# ⚡Instalação
 
 No Termux ou Linux, abra o terminal e rode:
 
