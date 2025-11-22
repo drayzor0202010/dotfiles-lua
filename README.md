@@ -1,6 +1,6 @@
 
 
-🌙 Dotfiles Lua Multi-Plataforma
+# 🌙Dotfiles Lua Multi-Plataforma
 
 > Dotfiles em Lua que funcionam tanto no Termux (Android) quanto no Linux (Hyprland ou outro).
 Automatize aliases, funções úteis e organize seu terminal de forma prática e elegante.
