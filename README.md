@@ -22,7 +22,7 @@ Automatize aliases, funções úteis e organize seu terminal de forma prática e
 
 📂 Estrutura do projeto
 
-dotfiles-lua/
+```dotfiles-lua/
 ├─ init.lua           # Arquivo principal que detecta o sistema e carrega os módulos
 ├─ termux/
 │   ├─ aliases.lua    # Aliases para Termux
@@ -30,7 +30,7 @@ dotfiles-lua/
 ├─ linux/
 │   ├─ aliases.lua    # Aliases para Linux
 │   └─ funcs.lua      # Funções para Linux
-└─ README.md          # Este arquivo
+└─ README.md          # Este arquivo```
 
 
 
