@@ -70,11 +70,11 @@ backup_docs()	Cria backup da pasta Documents
 
 🖥️ Exemplo de uso no terminal Lua
 
-cls()             -- Limpa a tela
+```cls()             -- Limpa a tela
 atualizar()       -- Atualiza pacotes
 limpar_cache()    -- Limpa cache
 backup_docs()     -- Cria backup de documentos
-
+```
 
 
 🔄 Compatibilidade
