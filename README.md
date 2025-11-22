@@ -20,7 +20,7 @@ Estrutura modular para fácil manutenção e expansão.
 
 
 
-📁 ```Estrutura do projeto
+```Estrutura do projeto
 
 dotfiles-lua/
 ├─ init.lua           # Arquivo principal que detecta o sistema e carrega os módulos
