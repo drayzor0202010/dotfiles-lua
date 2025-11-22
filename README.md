@@ -30,7 +30,8 @@ Automatize aliases, funções úteis e organize seu terminal de forma prática e
 ├─ linux/
 │   ├─ aliases.lua    # Aliases para Linux
 │   └─ funcs.lua      # Funções para Linux
-└─ README.md          # Este arquivo```
+└─ README.md          # Este arquivo
+```
 
 
 
