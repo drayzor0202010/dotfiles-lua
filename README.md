@@ -135,6 +135,6 @@ Mantenha coerência e compatibilidade entre Termux e Linux.
 
 Lua 🐍 — linguagem simples e poderosa para scripting.
 
-Termux 📱 — tornando Android tão funcional quanto Linux.
+Termux 📱 — tornando Android tão funcional quanto Linux, mesmo sendo limitado.
 
 Comunidade open-source 🌐 — inspiração e aprendizado diário.
