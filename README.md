@@ -1,5 +1,3 @@
-Beleza! Aqui vai uma versão maior, bem organizada, cheia de emojis, com caixinhas de código certinhas e visual agradável, pro seu dotfiles-lua:
-
 
 
 🌙 Dotfiles Lua Multi-Plataforma
