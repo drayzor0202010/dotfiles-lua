@@ -81,7 +81,7 @@ backup_docs()     -- Cria backup de documentos
 
 O script detecta automaticamente o sistema:
 
-local uname = io.popen("uname"):read("*l")
+```local uname = io.popen("uname"):read("*l")
 
 if uname == "Linux" then
     dofile("linux/aliases.lua")
@@ -90,7 +90,7 @@ elseif uname == "Android" then
     dofile("termux/aliases.lua")
     dofile("termux/funcs.lua")
 end
-
+```
 > Assim, você não precisa se preocupar em carregar módulos errados.
 
 
