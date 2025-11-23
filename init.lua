@@ -1,4 +1,3 @@
-
 local uname = io.popen("uname"):read("*l")
 
 if uname == "Linux" then
